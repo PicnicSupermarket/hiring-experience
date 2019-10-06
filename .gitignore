@@ -1,0 +1,11 @@
+# General Java development.
+*.iml
+.classpath
+.DS_Store
+.factorypath
+.gradle
+.idea
+.project
+.settings
+.vscode
+target

@@ -1,0 +1,138 @@
+== Picnic's Hiring Experience
+
+The Picnic Hiring Experience is designed to be efficient yet thorough,
+so that everyone involved is 100% sure of the decisions they're taking.
+For you, the candidate, this means an extensive look into how we work
+and what we work with while remaining quick so that no one wastes any
+time. For us, Picnic, it means an in-depth understanding of who you are,
+and how you fit might into our team, so that once you're here, you'll be
+at your happiest and most productive. If you're curious to know how we
+make all this work, read on!
+
+image::ghhp1.png[Process_1]
+
+=== Application
+
+* Duration: 1 to 2 days
+* What is expected of you:
++
+Send in your CV and cover letter (keep to the famous proverb: A cover
+letter is always better). Don't hesitate to give us as much information
+as you can (LinkedIn and GitHub profile, where you're from, where you
+studied, etc.). This will help us make a more informed and faster
+decision.
+* What happens in the background:
++
+Once you've clicked "Send", your application ends up in our Applicant
+Tracking System (recruiters like to sound smart and usually call it an
+ATS). We always aim to get back to you within 24 hours, but sometimes it
+can take up to 48 hours until you hear back from us.
+
+image::ghhp2.png[Process_2]
+
+=== First Test and Phone Screening
+
+* Duration: ~ 1 week (depending on your availability and speed)
+* What is expected of you:
+** Congratulations! You've made it to the first stage! Depending on the
+role you're applying for, you might be given a preliminary test, or go
+straight to a phone call:
+*** First test: The first test is given out using Codility, a service
+that allows you to comfortably do your assignment and receive feedback
+as soon as you submit.
+*** Phone call: You've passed the first test (or moved straight to the
+call) and are now wondering what is going to happen. Well, here it is!
+One of our Tech Recruiters will give you a call at a pre-determined
+time, and during an informal and non-technical chat, will discuss the
+following things with you:
+**** Motivation: What is it about Picnic that attracts you so much? Is
+there a spcific reason you're leaving your current job? What does a
+perfect job look like to you?
+**** Experience: Where have you been and where do you want to go? What
+is your favorite stack? What does your team look like?
+**** Personality: What do you do besides work? What is your opinion on
+code reviews? Would you be interested in joining a Picnic Club?
+**** Practical stuff: What's your notice period? Are you moving to the
+Netherlands (if applicable) on your own? Have you thought about your
+salary expectations?
+**** One word of notice: These are just examples, your interview might
+be completely different, so make sure to prepare by doing some light
+research and figuring out what you're looking for in your next
+opportunity.
+* What happens in the background:
+** First test: Once you've submitted your test, we receive your grade
+and possible similarity issues (if it thinks you copied code from
+somewhere else). But don't worry, we're more than just robots! The
+recruitment team always consults with the devs to check whether to let
+you move on to the next stage.
+** Phone call: Before any phone call, your Tech Recruiter will do a
+quick check of your profile to note if there are any strange things that
+they should mention (gaps in your timeline, short periods of work,
+unfinished studies). If there is anything like that in your CV, make
+sure you're able to give us a quick explanation.
+
+image::ghhp3.png[Process_3]
+
+=== Main assignment
+
+* Duration: ~ 1 week (highly dependent on speed)
+* What is expected of you:
++
+You've had a good chat with your recruiter, and now it's time to get
+down to business (or back to business if this is your second assignment
+;) ) Depending on the position you're applying for, the assignment will
+have different goals and requirements, but they all share commonalities:
+** Quality of code: The main goal of the assignment is to assess your
+technical abilities when you're performing at your best. Make sure to
+give yourself the right environment to write the best code you can, and
+don't hesitate to pull out all the stops to impress the tech team. But
+remember, at Picnic, we like efficient asnwers, so avoid
+over-engineering. ;)
+** Time limit: Officially, there is no deadline. Your time to submit
+will *never* be taken into account, so if you think you're done but
+could still use some time to polish a couple of things, do not hesitate to
+take that time. However, after about a week without any contact, your
+recruiter may come back to you to check-in and see if you need any help.
+* What happens in the background:
++
+Once you've submitted your assignment, two members of the tech team will
+take a look independently, and then join and discuss. They will then
+share their feedback with your recruiter, and together, they will decide
+whether to invite you to the last stage of the process: an on-site
+visit.
+
+image::ghhp4.png[Process_4]
+
+=== On-site visit
+
+* Duration: 1 day
+* What is expected of you:
++
+During the visit, you will meet with a few different people, from
+possible teammates, to the CTO. You will also have a white board session
+or a pair programming session (some positions even have both included in
+the visit), the only technical part of your visit. During this time, all
+that we expect is that you be yourself. We understand that this can be a
+stressful time for you, and we do everything we can to make as enjoyable
+for you as possible, but being relaxed and trying to have fun is the
+best way for us to see who you are.
+* What happens in the background:
++
+When you arrive at the office, your recruiter will be there to welcome
+you. After a drink and a quick tour of the office, you'll be shown to
+your first meeting. Halfway into the day, you'll share lunch with some
+team members (on us ;) ) and when everything is said in done, you'll sit
+with your recruiter to share some feedback. During the day, your
+recruiter will be meeting with the different people you met with to get
+a sense of how the day is going, and before the final meeting with your
+recruiter, everyone involved in your process will meet to discuss your
+case and take a final decision.
+
+image::ghhp5.png[Process_5]
+
+=== Hired!
+
+Amazing news! We've made you an offer, and in your infinite wisdom,
+you've decided to accept it. At this point, the People Team will assist
+you with everything you need during your transition period. For more
+information on this, have a look <<onboarding.adoc#Onboarding, here>>.

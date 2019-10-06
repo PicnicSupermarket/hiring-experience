@@ -1,0 +1,30 @@
+== Getting here 🛫
+
+image::planes.jpg[Airplane]
+
+Whether you're dropping by for a coffee, have interviews, or are
+starting on your first day, knowing how to get here is important. The
+next few pictures give you a rough idea of how to get around using
+public transportation between the main destinations that will be
+relevant for you during your trip. Please bear in mind that although
+biking is the favorite method of transportation, this is not covered
+here. If you want to know how to get to the office by bike, you can use
+https://www.google.com/maps[Google Maps] and enter the following
+address: *Van Marwijk Kooystraat 15, 1114 AG, Amsterdam*
+
+=== Amsterdam
+
+image::tp.png[Overview]
+
+=== Public transport websites
+[.float-group]
+--
+[link=https://9292.nl/]
+image::9292.png[float="left", 150, 150]
+
+[link=https://www.gvb.nl/]
+image::logo_gvb.png[float="left", 150, 150]
+
+[link=https://www.ns.nl/en]
+image::ns.png[float="left", 150, 150]
+--

@@ -1,0 +1,26 @@
+// Configure settings for asciidoc
+include::config.adoc[]
+
+// 1. Introduction
+include::pages/start.adoc[]
+
+// 2. What is Picnic?
+include::pages/intro.adoc[]
+
+// 3. What you'll love about working @ Picnic
+include::pages/what_love_picnic.adoc[]
+
+// 4. Curious about our tech stack?
+include::pages/tech_stack.adoc[]
+
+// 5. Picnic's Hiring Experience
+include::pages/hiring_process.adoc[]
+
+// 6. Getting here
+include::pages/map.adoc[]
+
+// 7. Onboarding
+include::pages/onboarding.adoc[]
+
+// 8. Still hungry?
+include::pages/hungry.adoc[]

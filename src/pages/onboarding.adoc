@@ -1,0 +1,51 @@
+== Onboarding
+
+Starting a new job can be exciting and a little scary. You meet a lot of
+new people, have to work in a new environment, and is generally an
+experience filled with unkowns. This is why Picnic has a clear
+onboarding procedure, from the second you sign your contract, until the
+end of your first month of work.
+
+=== Moving to the Netherlands
+
+Moving to a new country can always be a little daunting. Fortunately,
+we're here to help! Have a look at the diagram below, which gives you an
+overview of the different steps you, Picnic, and the Dutch government
+will be involved in for your smooth transition:
+
+image::checklist.png[Checklist]
+
+=== Getting to know Picnic
+
+So you're done moving (or were already here 😉), and you're ready for
+your first day. Curious what to expect? Have a look:
+
+* *Monday*: On day your first day, you'll receive a warm welcome, a
+Picnic introduction, your gear and set-up the office systems. In the
+afternoon, you'll spend 2-3 hours with the Customer Success team and
+meet your buddy (see below).
+* *Tuesday*: You'll have the chance to spend some time at the heart of
+our supply chain. For half a day, you'll be a shopper, working in a
+Fulfillement Center, and the other half, you'll jin a runner on a
+delivery shift. This is done to allow you to get a solid understanding
+of our supply chain and operations.
+* *Wednesday*: First work-day! You'l be properly introduced to the team
+and will be invited to the relevant Slack channels.
+* *Within a couple of weeks, on a Friday*: _The Picnic Deep Dive,_ a
+full immersion on all the Picnic teams to get to know their goals and
+role better.
+
+=== Your Buddy
+
+Everyone who starts at Picnic is assigned a *buddy*, usually someone
+with some experience in Picnic, with similar interests and personality.
+If you'll work in the tech team, your buddy will also be from the tech
+team, so he or she can help you set up your computer and development
+environment. If you will work in any other team, your buddy will not be
+from your team, to encourage intra company connectivity.
+
+Here is what you can expect from your buddy:
+
+* You'll share a coffee on your _first_ day.
+* You'll check-in with one another _once_ per week.
+* An approachable person who will enjoy answering any questions.

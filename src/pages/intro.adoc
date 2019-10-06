@@ -1,0 +1,59 @@
+== What is Picnic? 🚚
+
+Picnic is rethinking the way people buy food. Without physical stores,
+we use an app-only approach and a user-centric philosophy, to make
+grocery shopping quick, simple, and fun.
+
+Starting in one Dutch town in 2015, we now serve over 60 cities in both
+the Netherlands and Germany. The secret to our success? An end-to-end
+business and a just-in-time supply chain. From the app-only store,
+forecasting of orders, warehouse fulfilment, to the evolving
+distribution strategy of our fleet of electric vehicles, we build
+everything in-house on our own developed software.
+
+The team has expanded from 10 to over 200 in 3 years. Growth has been
+exponential and we're not the only ones to say so. With multiple awards
+to our name and a Series B funding round of 100 million, we have become
+true disruptors in some of the most challenging industries: inner-city
+logistics, e-commerce retail and enterprise software. And thanks to our
+people-first attitude and a friendly delivery team, we become part of
+every neighbourhood we serve.
+
+image::epv_amersfoort.jpg[EPV Amersfoort]
+
+Technology, smart planning, and a fleet of electric vehicles lead to
+less food waste and fewer food miles. Picnic is competitive and
+sustainable.
+
+Software is helping us lead a grocery revolution. But we don't just sell
+apples. Our entire operation is run in-house: the supply-chain,
+forecasting, warehouse systems, partnership and fleet strategies. From
+the backend to the front, we're pioneering development in e-commerce and
+urban logistics.
+
+With a data-driven approach and an app-only store, Picnic has become
+Europe's fastest growing online supermarket.
+
+image::epv_canal.jpg[EPV Canal]
+
+We value freedom and responsibility. There's always room to design
+unique solutions and upset the status quo. In a dynamic atmosphere,
+diverse teams collaborate on projects, taking ideas from the drawing
+board to implementation. We're all curious, and everyone is hungry for a
+challenge.
+
+Picnic started small, and our roots have never been forgotten. Real
+customers are involved day-to-day in the development of our product. We
+have a weekly user-testing session and a dedicated customer success
+team. This allows us to continue creating products that people love,
+complemented with first-class service and a modern flair.
+
+image::epv_windmill.jpg[EPV Windmill]
+
+At Picnic, our team works hard on a rewarding project: to lead a grocery
+revolution in a tech-driven, sustainable, and affordable way.
+
+By bringing minds with assorted backgrounds together, we unlock the
+potential of diversity. From data scientists, analysts, in-house
+consultants, to software developers, everyone combines forces to bring
+simplicity out of complexity and run company changing projects.
