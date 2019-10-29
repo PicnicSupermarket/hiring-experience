@@ -135,4 +135,4 @@ image::ghhp5.png[Process_5]
 Amazing news! We've made you an offer, and in your infinite wisdom,
 you've decided to accept it. At this point, the People Team will assist
 you with everything you need during your transition period. For more
-information on this, have a look <<onboarding.adoc#Onboarding, here>>.
+information on this, have a look <<#_onboarding, here>>.
