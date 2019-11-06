@@ -30,41 +30,29 @@ can take up to 48 hours until you hear back from us.
 
 image::ghhp2.png[Process_2]
 
-=== First Test and Phone Screening
+=== Phone Call
 
-* Duration: ~ 1 week (depending on your availability and speed)
+* Duration: ~ 1 week (depending on your availability)
 * What is expected of you:
-** Congratulations! You've made it to the first stage! Depending on the
-role you're applying for, you might be given a preliminary test, or go
-straight to a phone call:
-*** First test: The first test is given out using Codility, a service
-that allows you to comfortably do your assignment and receive feedback
-as soon as you submit.
-*** Phone call: You've passed the first test (or moved straight to the
-call) and are now wondering what is going to happen. Well, here it is!
+** Phone call: You've passed the application stage and are now wondering what is going to happen. Well, here it is!
 One of our Tech Recruiters will give you a call at a pre-determined
 time, and during an informal and non-technical chat, will discuss the
 following things with you:
-**** Motivation: What is it about Picnic that attracts you so much? Is
+*** Motivation: What is it about Picnic that attracts you so much? Is
 there a spcific reason you're leaving your current job? What does a
 perfect job look like to you?
-**** Experience: Where have you been and where do you want to go? What
+*** Experience: Where have you been and where do you want to go? What
 is your favorite stack? What does your team look like?
-**** Personality: What do you do besides work? What is your opinion on
+*** Personality: What do you do besides work? What is your opinion on
 code reviews? Would you be interested in joining a Picnic Club?
-**** Practical stuff: What's your notice period? Are you moving to the
+*** Practical stuff: What's your notice period? Are you moving to the
 Netherlands (if applicable) on your own? Have you thought about your
 salary expectations?
-**** One word of notice: These are just examples, your interview might
+*** One word of notice: These are just examples, your interview might
 be completely different, so make sure to prepare by doing some light
 research and figuring out what you're looking for in your next
 opportunity.
 * What happens in the background:
-** First test: Once you've submitted your test, we receive your grade
-and possible similarity issues (if it thinks you copied code from
-somewhere else). But don't worry, we're more than just robots! The
-recruitment team always consults with the devs to check whether to let
-you move on to the next stage.
 ** Phone call: Before any phone call, your Tech Recruiter will do a
 quick check of your profile to note if there are any strange things that
 they should mention (gaps in your timeline, short periods of work,
@@ -73,14 +61,13 @@ sure you're able to give us a quick explanation.
 
 image::ghhp3.png[Process_3]
 
-=== Main assignment
+=== Assignment
 
 * Duration: ~ 1 week (highly dependent on speed)
 * What is expected of you:
 +
 You've had a good chat with your recruiter, and now it's time to get
-down to business (or back to business if this is your second assignment
-;) ) Depending on the position you're applying for, the assignment will
+down to business. Depending on the position you're applying for, the assignment will
 have different goals and requirements, but they all share commonalities:
 
 ** Quality of code: The main goal of the assignment is to assess your
@@ -111,7 +98,7 @@ image::ghhp4.png[Process_4]
 * What is expected of you:
 +
 During the visit, you will meet with a few different people, from
-possible teammates, to the CTO. You will also have a white board session
+possible teammates, to our CTO. You will also have a white board session
 or a pair programming session (some positions even have both included in
 the visit), the only technical part of your visit. During this time, all
 that we expect is that you be yourself. We understand that this can be a
