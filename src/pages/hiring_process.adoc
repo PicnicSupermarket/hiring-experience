@@ -82,12 +82,14 @@ You've had a good chat with your recruiter, and now it's time to get
 down to business (or back to business if this is your second assignment
 ;) ) Depending on the position you're applying for, the assignment will
 have different goals and requirements, but they all share commonalities:
+
 ** Quality of code: The main goal of the assignment is to assess your
 technical abilities when you're performing at your best. Make sure to
 give yourself the right environment to write the best code you can, and
 don't hesitate to pull out all the stops to impress the tech team. But
 remember, at Picnic, we like efficient asnwers, so avoid
-over-engineering. ;)
+over-engineering. 😉
+
 ** Time limit: Officially, there is no deadline. Your time to submit
 will *never* be taken into account, so if you think you're done but
 could still use some time to polish a couple of things, do not hesitate to
@@ -121,7 +123,7 @@ best way for us to see who you are.
 When you arrive at the office, your recruiter will be there to welcome
 you. After a drink and a quick tour of the office, you'll be shown to
 your first meeting. Halfway into the day, you'll share lunch with some
-team members (on us ;) ) and when everything is said in done, you'll sit
+team members (on us 😉) and when everything is said in done, you'll sit
 with your recruiter to share some feedback. During the day, your
 recruiter will be meeting with the different people you met with to get
 a sense of how the day is going, and before the final meeting with your
