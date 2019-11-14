@@ -65,53 +65,36 @@ image::ghhp3.png[Process_3]
 
 * Duration: 1 to 2 weeks (dependent on speed)
 * Assignment:
-
 ** What is expected of you:
-+
 You've had a good chat with your recruiter, and now it's time to get
 down to business. Depending on the position you're applying for, the assignment will
 have different goals and requirements, but they all share commonalities:
-
 *** Quality of code: The main goal of the assignment is to assess your
 technical abilities when you're performing at your best. Make sure to
 give yourself the right environment to write the best code you can, and
 don't hesitate to pull out all the stops to impress the tech team. But
 remember, at Picnic, we like efficient asnwers, so avoid
 over-engineering. 😉
-+
 *** Time limit: Officially, there is no deadline. Your time to submit
 will *never* be taken into account, so if you think you're done but
 could still use some time to polish a couple of things, do not hesitate to
 take that time. However, after about a week without any contact, your
 recruiter may come back to you to check-in and see if you need any help.
-
 ** What happens in the background:
-+
 Once you've submitted your assignment, two members of the tech team will
 take a look independently, and then join and discuss. They will then
 share their feedback with your recruiter, and together, they will decide
 whether to invite you to the next stage: the technical interview.
-
 * Interview
-
 ** What is expected of you:
-+
 Before the interview, we recommend you go over your work and prepare to answer any questions regarding your solution. The interview lasts roughly an hour and is divided into three main sections:
-
 *** Introduction:
-+
 Your interviewers will introduce themselves and ask you to do the same.
-
 *** Assignment:
-+
 This is the important part. The developers will focus on certain decisions you have made when working out your solution, so make sure you're able to communicate them clearly.
-
 *** Questions:
-+
 If you have any questions (especially technical ones), now is the time to ask. 😉
-
 ** What happens in the background:
-+
 Once the interview is over, the developers will share their feedback with your recruiter, and together, they will decide whether to invite you to the last stage of the process: an on-site visit.
 
 image::ghhp4.png[Process_4]
