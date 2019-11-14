@@ -1,4 +1,4 @@
+:favicon: images/favicon.ico
 :imagesdir: images
 :nofooter:
 :toc-title: Overview
-:favicon: images/favicon.ico
