@@ -22,5 +22,8 @@ include::pages/map.adoc[]
 // 7. Onboarding
 include::pages/onboarding.adoc[]
 
-// 8. Still hungry?
+// 8. Frequently Asked Questions
+include::pages/faq.adoc[]
+
+// 9. Still hungry?
 include::pages/hungry.adoc[]
