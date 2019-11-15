@@ -21,7 +21,7 @@ develop, make sure to keep an eye on our engineering blog.
 https://medium.com/lifes-a-picnic[Life is a Picnic]
 
 The amazing things that happen in our offices, supply chain, and anywhere
-else that is not related to tech can be found here
+else that is not related to tech can be found here.
 
 === Social Media
 
