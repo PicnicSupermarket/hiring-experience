@@ -2,7 +2,7 @@
 
 Starting a new job can be exciting and a little scary. You meet a lot of
 new people, have to work in a new environment, and is generally an
-experience filled with unkowns. This is why Picnic has a clear
+experience filled with unknowns. This is why Picnic has a clear
 onboarding procedure, from the second you sign your contract, until the
 end of your first month of work.
 
@@ -27,7 +27,7 @@ meet your buddy (see below).
 * *Tuesday*: You'll have the chance to spend some time at the heart of
 our supply chain. For half a day, you'll tag along a runner to see what the deliveries look like for Picnic and the customers.
 * *Wednesday*: To continue the Picnic distribution experience, you'll spend one full day in one of our Fulfilment Center to be a shopper. You'll get to see how every order is put together, from the moment it is delivered by our supplier, until it's dispatched to a hub.
-* *Thursday*: First work-day! You'l be properly introduced to the team
+* *Thursday*: First work-day! You'll be properly introduced to the team
 and will be invited to the relevant Slack channels.
 * *Within a couple of weeks, on a Friday*: _The Picnic Deep Dive,_ a
 full immersion on all the Picnic teams to get to know their goals and
