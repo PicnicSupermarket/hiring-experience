@@ -25,11 +25,9 @@ Picnic introduction, your gear and set-up the office systems. In the
 afternoon, you'll spend 2-3 hours with the Customer Success team and
 meet your buddy (see below).
 * *Tuesday*: You'll have the chance to spend some time at the heart of
-our supply chain. For half a day, you'll be a shopper, working in a
-Fulfillement Center, and the other half, you'll jin a runner on a
-delivery shift. This is done to allow you to get a solid understanding
-of our supply chain and operations.
-* *Wednesday*: First work-day! You'l be properly introduced to the team
+our supply chain. For half a day, you'll tag along a runner to see what the deliveries look like for Picnic and the customers.
+* *Wednesday*: To continue the Picnic distribution experience, you'll spend one full day in one of our Fulfilment Center to be a shopper. You'll get to see how every order is put together, from the moment it is delivered by our supplier, until it's dispatched to a hub.
+* *Thursday*: First work-day! You'l be properly introduced to the team
 and will be invited to the relevant Slack channels.
 * *Within a couple of weeks, on a Friday*: _The Picnic Deep Dive,_ a
 full immersion on all the Picnic teams to get to know their goals and
