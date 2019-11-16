@@ -39,7 +39,7 @@ One of our Tech Recruiters will give you a call at a pre-determined
 time, and during an informal and non-technical chat, will discuss the
 following things with you:
 *** Motivation: What is it about Picnic that attracts you so much? Is
-there a spcific reason you're leaving your current job? What does a
+there a specific reason you're leaving your current job? What does a
 perfect job look like to you?
 *** Experience: Where have you been and where do you want to go? What
 is your favorite stack? What does your team look like?
@@ -73,7 +73,7 @@ have different goals and requirements, but they all share commonalities:
 technical abilities when you're performing at your best. Make sure to
 give yourself the right environment to write the best code you can, and
 don't hesitate to pull out all the stops to impress the tech team. But
-remember, at Picnic, we like efficient asnwers, so avoid
+remember, at Picnic, we like efficient answers, so avoid
 over-engineering. 😉
 *** Time limit: Officially, there is no deadline. Your time to submit
 will *never* be taken into account, so if you think you're done but
