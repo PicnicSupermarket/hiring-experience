@@ -2,7 +2,7 @@
 
 [![Build Status][travisci-badge]][travisci-builds]
 
-The source for the Picnic Hiring Experience document.
+The source for the Picnic Hiring Experience document. View the document online at [hiring.picnic.tech][hiring-experience-website].
 
 ## How to use
 
@@ -12,5 +12,6 @@ Git submodule.
 
 [asciidoc-homepage]: https://asciidoctor.org
 [doctoolchain-github]: https://github.com/docToolchain/docToolchain
+[hiring-experience-website]: https://hiring.picnic.tech
 [travisci-badge]: https://travis-ci.org/PicnicSupermarket/hiring-experience.svg?branch=master
 [travisci-builds]: https://travis-ci.org/PicnicSupermarket/hiring-experience
