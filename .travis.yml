@@ -4,7 +4,7 @@ language: java
 jdk: oraclejdk8
 script:
   - ./docToolchain/bin/doctoolchain . generateHTML
-  - echo 'hiring.picnic.tech' > target/html5/CNAME
+  - echo 'hiring.picnic.app' > target/html5/CNAME
 deploy:
   local_dir: target/html5
   provider: pages
