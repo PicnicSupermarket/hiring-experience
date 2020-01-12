@@ -9,7 +9,7 @@ public transportation between the main destinations that will be
 relevant for you during your trip. Please bear in mind that although
 biking is the favorite method of transportation, this is not covered
 here. If you want to know how to get to the office by bike, you can use
-https://goo.gl/maps/L9NHVCgeX5Cwjv7h9[Google Maps].
+Google Maps {url-picnic-hq-gmaps}.
 
 === Amsterdam
 
