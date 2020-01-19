@@ -1,6 +1,9 @@
 // Configure settings for asciidoc
 include::config.adoc[]
 
+// Import the uri definitions
+include::links.adoc[]
+
 // 1. Introduction
 include::pages/start.adoc[]
 
