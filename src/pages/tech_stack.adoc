@@ -22,7 +22,7 @@ should take place, we use data to drive every aspect of the business.
 🆓 *Open source*
 
 We strongly believe in open sourcing our tech. But don't take our word
-for it. Just check out our http://picnic.tech/[OSS library] or go directly
+for it. Just check out our http://picnic.tech/[OSS portfolio] or go directly
 to our https://github.com/PicnicSupermarket[Github page].
 
 🤔 *Not satisfied?*
