@@ -1,1 +1,2 @@
 :url-picnic-hq-gmaps: https://www.google.com/maps/search/Picnic+HQ/@52.3314517,4.9166934,17z[Picnic HQ]
+:url-picnic-blog-incentives-for-code-reviews: https://blog.picnic.nl/crypto-incentives-for-code-reviews-71a0be53d130[Crypto incentives for code reviews]
