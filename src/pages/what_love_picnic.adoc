@@ -37,7 +37,7 @@ belongs to you as much as to anyone else.
 
 Code reviews are at the core of our development, but it's not always
 fun. We want everything to be interesting so we've put code reviews on
-the blockchain. You can find out more in this article.
+the blockchain. You can find out more in {url-picnic-blog-incentives-for-code-reviews}.
 
 🧔👩🏿🧒🏻 *Be part of an international, friendly, and helpful team:*
 
