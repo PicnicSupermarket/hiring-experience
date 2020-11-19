@@ -1,6 +1,9 @@
 // Configure settings for asciidoc
 include::config.adoc[]
 
+// Import that adds web analytics
+include::analytics.adoc[]
+
 // Import the uri definitions
 include::links.adoc[]
 
