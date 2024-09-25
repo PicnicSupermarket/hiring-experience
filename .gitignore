@@ -1,11 +1,5 @@
-# General Java development.
-*.iml
-.classpath
-.DS_Store
-.factorypath
-.gradle
-.idea
-.project
-.settings
-.vscode
-target
+_site
+.sass-cache
+.jekyll-cache
+.jekyll-metadata
+vendor
