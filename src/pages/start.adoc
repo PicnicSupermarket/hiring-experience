@@ -1,8 +1,0 @@
-﻿// asciidoc settings for EN (English)
-// ==================================
-:toc-title: Overview
-
-// enable table-of-contents
-:toc: left
-
-image:bannerpicnic.png[]
